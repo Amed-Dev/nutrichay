@@ -1,0 +1,271 @@
+[
+    {
+        "codigo": "10100 ",
+        "nombre": "Sándwich de pollo y palta ",
+        "categoria": "desayuno",
+        "img": "./assets/img/recetas/10100.jpg",
+        "objetivo": "déficit",
+        "proteinas": "31 ",
+        "grasas": "11",
+        "carbohidratos": "27",
+        "calorias": "336",
+        "ingredientes": [
+            {
+                "cantigad": "100",
+                "unidad": "g",
+                "equivalencia": "",
+                "ingrediente": "Pechuga de pollo (sin piel)"
+            },
+            {
+                "cantigad": "2",
+                "unidad": "rebanada",
+                "equivalencia": "",
+                "ingrediente": "Pan de molde integral"
+            },
+            {
+                "cantigad": "50",
+                "unidad": "g",
+                "equivalencia": "1/4 ud. pequeña",
+                "ingrediente": "Palta"
+            },
+            {
+                "cantigad": "0,5",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Tomate"
+            }
+        ],
+        "procedimiento":["En un tazón, batir los huevos con un tenedor. Agregar sal y pimienta al gusto, así como las espinacas cortadas en tiras y el queso en cuadraditos.","Calentar una sartén a fuego bajo y verter la mezcla en la sartén caliente.","Remover la mezcla continuamente para evitar que se pegue y cocinar hasta que el huevo esté completamente cocido.","Servir el revuelto con las tostadas o pan de molde."]
+    },
+    {
+        "codigo": "10101",
+        "nombre": "Revuelto de huevo, queso y espinaca ",
+        "categoria": "desayuno",
+        "img": "./assets/img/recetas/10101.jpg",
+        "objetivo": "deficit",
+        "proteinas": "26",
+        "grasas": "18",
+        "carbohidratos": "23",
+        "calorias": "361",
+        "ingredientes":[
+            {
+                "cantigad": "2",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Huevo "
+            },
+            {
+                "cantigad": "25",
+                "unidad": "g",
+                "equivalencia": "1 rebanada",
+                "ingrediente": "Queso fresco"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "puño",
+                "equivalencia": "",
+                "ingrediente": "Espinaca"
+            },
+            {
+                "cantigad": "2",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Tostada integral"
+            }
+        ],
+        "procedimiento":["En un tazón, batir los huevos con un tenedor. Agregar sal y pimienta al gusto, así como las espinacas cortadas en tiras y el queso en cuadraditos.","Calentar una sartén a fuego bajo y verter la mezcla en la sartén caliente","Remover la mezcla continuamente para evitar que se pegue y cocinar hasta que el huevo esté completamente cocido","Servir el revuelto con las tostadas o pan de molde."]
+    },
+    {
+        "codigo": "10123",
+        "nombre": "Panqueques de plátano y cacao",
+        "categoria": "cena",
+        "img": "./assets/img/recetas/10123.jpg",
+        "objetivo": "deficit",
+        "proteinas": "17",
+        "grasas": "09",
+        "carbohidratos": "53",
+        "calorias": "356",
+        "ingredientes":[
+            {
+                "cantigad": "1",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Huevo "
+            },
+            {
+                "cantigad": "1",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Clara de huevo"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Plátano de seda"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cdta",
+                "equivalencia": "",
+                "ingrediente": "Cacao en polvo"
+            },
+            {
+                "cantigad": "30",
+                "unidad": "g",
+                "equivalencia": "3 cdas",
+                "ingrediente": "Avena"
+            }
+        ],
+        "procedimiento":["Mezclar el plátano, el cacao en polvo, el huevo y la avena en una licuadora o en un recipiente usando un tenedor, hasta obtener una masa líquida","Calentar una sartén a fuego lento y agregar un poco de la mezcla en forma de círculo","Dejar que los pancakes cocinen y cuando empiecen a hacer burbujas en la superficie, darles la vuelta con una paleta","Cocinar por ambos lados hasta que estén dorados","Apilar los pancakes formando una torre y decorar con rodajas de plátano."]
+    },
+    {
+        "codigo": "30103",
+        "nombre": "Pollo al sillao",
+        "categoria": "almuerzo",
+        "img": "./assets/img/recetas/30103.jpg",
+        "objetivo": "deficit",
+        "proteinas": "37",
+        "grasas": "07",
+        "carbohidratos": "69",
+        "calorias": "485",
+        "ingredientes":[
+            {
+                "cantigad": "2",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Muslo de pollo (sin piel)"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "tajada",
+                "equivalencia": "",
+                "ingrediente": "Pimiento"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cda",
+                "equivalencia": "",
+                "ingrediente": "Cebolla china"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cdta",
+                "equivalencia": "",
+                "ingrediente": "Kión"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cdta",
+                "equivalencia": "",
+                "ingrediente": "Salsa de soya"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cda",
+                "equivalencia": "",
+                "ingrediente": "Maicena"
+            },
+            {
+                "cantigad": "150",
+                "unidad": "g",
+                "equivalencia": "1 mediana",
+                "ingrediente": "Papa"
+            },
+            {
+                "cantigad": "100",
+                "unidad": "g",
+                "equivalencia": "1/2 taza",
+                "ingrediente": "Arroz blanco"
+            }
+        ],
+        "procedimiento":["Cortar el pimiento y la cebolla china en bastones.","Mezclar el sillao y el kion rallado en un bowl","Agregar las presas de pollo, la mitad del pimiento y la mitad de la cebolla china, y dejar macerar por 30 minutos.","Colocar el pollo con todo el macerado en una olla, añadir caldo de pollo o agua y cocinar por 20 minutos aproximadamente o hasta que el pollo esté cocido.","Añadir el chuño diluido para espesar ligeramente la salsa.","Agregar el pimiento y la cebolla china restantes.","Servir y acompañar con arroz blanco y papa sancochada."]
+    },
+    {
+        "codigo": "30115",
+        "nombre": "Locro de zapallo con filete de res",
+        "categoria": "almuerzo",
+        "img": "./assets/img/recetas/30115.jpg",
+        "objetivo": "deficit",
+        "proteinas": "32",
+        "grasas": "17",
+        "carbohidratos": "77",
+        "calorias": "588",
+        "ingredientes":[[
+            {
+                "cantigad": "75",
+                "unidad": "g",
+                "equivalencia": "",
+                "ingrediente": "Bistec de res"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "taza",
+                "equivalencia": "",
+                "ingrediente": "Zapallo"
+            },
+            {
+                "cantigad": "100",
+                "unidad": "g",
+                "equivalencia": "1 pequeña",
+                "ingrediente": "Papa amarilla"
+            },
+            {
+                "cantigad": "20",
+                "unidad": "g",
+                "equivalencia": "",
+                "ingrediente": "Habas"
+            },
+            {
+                "cantigad": "15",
+                "unidad": "g",
+                "equivalencia": "",
+                "ingrediente": "Queso fresco"
+            },
+            {
+                "cantigad": "50",
+                "unidad": "ml",
+                "equivalencia": "",
+                "ingrediente": "Leche baja en grasa (evaporada)"
+            },
+            {
+                "cantigad": "100",
+                "unidad": "g",
+                "equivalencia": "1/2 taza",
+                "ingrediente": "Arroz blanco"
+            },
+            {
+                "cantigad": "1",
+                "unidad": "cdta",
+                "equivalencia": "",
+                "ingrediente": "Aceite de oliva"
+            },
+            {
+                "cantigad": "0,25",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Cebolla roja"
+            },
+            {
+                "cantigad": "0,5",
+                "unidad": "diente",
+                "equivalencia": "picado",
+                "ingrediente": "Ajo"
+            },
+            {
+                "cantigad": "0,25",
+                "unidad": "ud.",
+                "equivalencia": "",
+                "ingrediente": "Cebolla roja"
+            },
+            {
+                "cantigad": "0,5",
+                "unidad": "diente",
+                "equivalencia": "picado",
+                "ingrediente": "Ajo"
+            }
+        ]],
+        "procedimiento":["Cortar la cebolla y el ajo en cuadraditos pequeños y en una olla hacer un aderezo con un poco de aceite de oliva.","Trocear el zapallo, la papa amarilla, y añadir las habas en la olla del aderezo agregando con agua. Cocinar hasta que las verduras estén tiernas. Escurrir si es necesario.","Una vez que el zapallo esté suave, remover todo hasta que esté bien integrado.","Agregar la leche evaporada, queso en cuadraditos, sal y pimienta al gusto. Dejar cocinar a fuego lento.","Sazonar el bistec con sal y pimienta, y cocinar a la plancha con el aceite de oliva.","Servir el locro de zapallo acompañado del bistec."]
+    }
+
+]

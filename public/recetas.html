@@ -1,0 +1,267 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nutrichay - Tu camino a la buena nutrición</title>
+    <link
+      href="//fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/css/style-starter.css" />
+    <link
+      rel="shortcut icon"
+      href="./assets/img/favicon.png"
+      type="image/x-icon" />
+  </head>
+
+  <body>
+    <!-- header -->
+    <header id="site-header" class="fixed-top"></header>
+    <!-- //header -->
+
+    <!-- inner banner -->
+    <section class="inner-banner py-5">
+    </section>
+    <!-- //inner banner -->
+
+    <section class="recetas-container" id="recetas">
+      <div class="container">
+        <div
+          id="recipesDetails"
+          class="row gap-4 justify-content-center align-content-center my-4">
+          <!-- contenido generado con js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- testimonials section -->
+    <section class="w3l-testimonials" id="testimonials">
+      <div class="cusrtomer-layout py-5">
+        <div class="container py-md-5">
+          <div class="text-center">
+            <h5 class="sub-title">Our Happy Students</h5>
+            <h3 class="title-style text-white">Testimonials</h3>
+          </div>
+          <div class="testimonial-width pt-lg-4">
+            <div id="owl-demo1" class="owl-two owl-carousel owl-theme">
+              <div class="item">
+                <div class="testimonial-content">
+                  <div class="testimonial">
+                    <blockquote>
+                      <i class="fas fa-quote-right"></i>
+                      <q
+                        >Lorem ipsum viverra feugiat. Pellen tesque libero ut
+                        justo, ultrices in ligula. Semper at tempufddfel.Lorem
+                        ipsum dolor sit, amet consectetur elit. Earum mollitia
+                        cum ex ipsam autem!earum sequi amet.</q
+                      >
+                    </blockquote>
+                    <div class="testi-des">
+                      <div class="peopl align-self">
+                        <h3>John wilson</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-content">
+                  <div class="testimonial">
+                    <blockquote>
+                      <i class="fas fa-quote-right"></i>
+                      <q
+                        >Lorem ipsum viverra feugiat. Pellen tesque libero ut
+                        justo, ultrices in ligula. Semper at tempufddfel.Lorem
+                        ipsum dolor sit, amet consectetur elit. Earum mollitia
+                        cum ex ipsam autem!earum sequi amet.</q
+                      >
+                    </blockquote>
+                    <div class="testi-des">
+                      <div class="peopl align-self">
+                        <h3>Julia sakura</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-content">
+                  <div class="testimonial">
+                    <blockquote>
+                      <i class="fas fa-quote-right"></i>
+                      <q
+                        >Lorem ipsum viverra feugiat. Pellen tesque libero ut
+                        justo, ultrices in ligula. Semper at tempufddfel.Lorem
+                        ipsum dolor sit, amet consectetur elit. Earum mollitia
+                        cum ex ipsam autem!earum sequi amet.</q
+                      >
+                    </blockquote>
+                    <div class="testi-des">
+                      <div class="peopl align-self">
+                        <h3>Roy Linderson</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-content">
+                  <div class="testimonial">
+                    <blockquote>
+                      <i class="fas fa-quote-right"></i>
+                      <q
+                        >Lorem ipsum viverra feugiat. Pellen tesque libero ut
+                        justo, ultrices in ligula. Semper at tempufddfel.Lorem
+                        ipsum dolor sit, amet consectetur elit. Earum mollitia
+                        cum ex ipsam autem!earum sequi amet.</q
+                      >
+                    </blockquote>
+                    <div class="testi-des">
+                      <div class="peopl align-self">
+                        <h3>Smith Johnson</h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /grids -->
+      </div>
+    </section>
+    <!-- //testimonials section -->
+
+    <!-- footer -->
+    <footer class="w3l-footer-16"></footer>
+    <!-- //footer -->
+
+    <!-- Js scripts -->
+    <!-- move top -->
+    <button onclick="topFunction()" id="movetop" title="Go to top">
+      <span class="fas fa-level-up-alt" aria-hidden="true"></span>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function () {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          document.getElementById("movetop").style.display = "block";
+        } else {
+          document.getElementById("movetop").style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+    <!-- //move top -->
+    <!-- Insertar contenido de plantillas -->
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        loadHeader("#recetas").then(() => {
+          ThemeToggle();
+        });
+        loadInnerBanner("Catalogo de Recetas", "Recetas")
+        loadRecipe();
+        loadFooter();
+      });
+    </script>
+    <!-- //Insertar contenido de plantillas -->
+
+    <!-- common jquery plugin -->
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <!-- //common jquery plugin -->
+
+    <!-- owlcarousel -->
+    <!-- script for tesimonials carousel slider -->
+    <script src="assets/js/owl.carousel.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $("#owl-demo1").owlCarousel({
+          loop: true,
+          margin: 20,
+          nav: false,
+          autoplay: true,
+          autoplayTimeout: 5000,
+          autoplaySpeed: 1000,
+          responsiveClass: true,
+          responsive: {
+            0: {
+              items: 1,
+              nav: false,
+            },
+            768: {
+              items: 1,
+              nav: false,
+            },
+            1000: {
+              items: 1,
+              nav: false,
+              loop: false,
+            },
+          },
+        });
+      });
+    </script>
+    <!-- //script for tesimonials carousel slider -->
+
+    <!-- theme switch js (light and dark)-->
+    <script src="assets/js/theme-change.js"></script>
+    <!-- //theme switch js (light and dark)-->
+
+    <!-- MENU-JS -->
+    <script>
+      $(window).on("scroll", function () {
+        scrollNavSets();
+      });
+
+      //Main navigation Active Class Add Remove
+      $(".navbar-toggler").on("click", function () {
+        $("header").toggleClass("active");
+      });
+      $(document).on("ready", function () {
+        if ($(window).width() > 991) {
+          $("header").removeClass("active");
+        }
+        $(window).on("resize", function () {
+          if ($(window).width() > 991) {
+            $("header").removeClass("active");
+          }
+        });
+      });
+    </script>
+    <!-- //MENU-JS -->
+
+    <!-- disable body scroll which navbar is in active -->
+    <script>
+      $(function () {
+        $(".navbar-toggler").click(function () {
+          $("body").toggleClass("noscroll");
+        });
+      });
+    </script>
+    <!-- //disable body scroll which navbar is in active -->
+
+    <!-- bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- //bootstrap -->
+    <script src="./assets/js/main.js"></script>
+    <!-- //Js scripts -->
+  </body>
+</html>

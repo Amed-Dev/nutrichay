@@ -1,0 +1,620 @@
+[
+  [
+    10100,
+    "Sándwich de pollo y palta",
+    "desayuno",
+    27,
+    11,
+    31,
+    "https://02w.me/Qtrao"
+  ],
+  [
+    10101,
+    "Revuelto de huevo, queso y espinaca ",
+    "desayuno",
+    23,
+    18,
+    26,
+    "https://t.ly/5tGW3"
+  ],
+  [
+    10102,
+    "Sándwich triple de pollo y aceitunas",
+    "desayuno",
+    34,
+    "09",
+    35,
+    "https://t.ly/zWtfD"
+  ],
+  [
+    10103,
+    "Sándwich de atún y palta",
+    "desayuno",
+    30,
+    11,
+    23,
+    "https://t.ly/HQxnS"
+  ],
+  [
+    10107,
+    "Revuelto de huevo con champiñones",
+    "cena",
+    24,
+    15,
+    27,
+    "https://t.ly/lkX4G"
+  ],
+  [10108, "Sándwich caprese", "desayuno", 26, 12, 15, "https://t.ly/QANc_"],
+  [
+    10109,
+    "Sándwich triple de huevo y palta",
+    "cena",
+    38,
+    15,
+    23,
+    "https://t.ly/db4ki"
+  ],
+  [
+    10111,
+    "Revuelto de huevo con jamón",
+    "desayuno",
+    25,
+    14,
+    34,
+    "https://t.ly/fEK9H"
+  ],
+  [
+    10112,
+    "Rollitos de pollo y palta",
+    "desayuno",
+    27,
+    13,
+    30,
+    "https://t.ly/-VSa6"
+  ],
+  [
+    10113,
+    "Rollitos de atún y palta",
+    "desayuno",
+    27,
+    14,
+    35,
+    "https://t.ly/ikn31"
+  ],
+  [
+    10114,
+    "Tortillas con jamón y queso",
+    "desayuno",
+    22,
+    15,
+    27,
+    "https://t.ly/comol"
+  ],
+  [
+    10115,
+    "Waffles de plátano maduro y queso",
+    "desayuno",
+    47,
+    13,
+    13,
+    "https://t.ly/3nf3p"
+  ],
+  [
+    10116,
+    "Waffles de zanahoria y queso",
+    "desayuno",
+    21,
+    19,
+    20,
+    "https://t.ly/2rnm6"
+  ],
+  [10117, "Crepes de espinaca", "cena", 21, 20, 24, "https://t.ly/O7aa_"],
+  [
+    10118,
+    "Sándwich cremoso de huevo",
+    "desayuno",
+    23,
+    12,
+    24,
+    "https://t.ly/08L9x"
+  ],
+  [
+    10119,
+    "Sándwich de pollo y zanahoria",
+    "desayuno",
+    29,
+    "08",
+    35,
+    "https://t.ly/ZkY-t"
+  ],
+  [
+    10120,
+    "Sándwich cremoso de atún",
+    "desayuno",
+    38,
+    "04",
+    27,
+    "https://t.ly/TRdoh"
+  ],
+  [
+    10121,
+    "Tostadas con palta y huevo",
+    "cena",
+    26,
+    14,
+    23,
+    "https://t.ly/jjNmS"
+  ],
+  [
+    10122,
+    "Panqueques de plátano",
+    "desayuno",
+    55,
+    "08",
+    17,
+    "https://t.ly/Bm-Ts"
+  ],
+  [
+    10123,
+    "Panqueques de plátano y cacao",
+    "desayuno",
+    53,
+    "09",
+    17,
+    "https://t.ly/B2Z0e"
+  ],
+  [
+    10124,
+    "Panqueques de zanahoria",
+    "desayuno",
+    33,
+    "08",
+    17,
+    "https://t.ly/A-1ha"
+  ],
+  [
+    10125,
+    "Panqueques de zapallo",
+    "desayuno",
+    38,
+    "08",
+    18,
+    "https://t.ly/ssesw"
+  ],
+  [
+    10126,
+    "Bowl de avena y manzana",
+    "desayuno",
+    61,
+    "06",
+    18,
+    "https://t.ly/PUVg7"
+  ],
+  [
+    10127,
+    "Bowl de avena y zanahoria",
+    "desayuno",
+    44,
+    15,
+    16,
+    "https://t.ly/w6agv"
+  ],
+  [
+    10128,
+    "Bowl de avena chocolatada",
+    "desayuno",
+    52,
+    11,
+    17,
+    "https://t.ly/9M3A_"
+  ],
+  [
+    10129,
+    "Bowl de avena y fruta fresca",
+    "desayuno",
+    49,
+    12,
+    18,
+    "https://t.ly/Wx6nK"
+  ],
+  [
+    10130,
+    "Avena fría con frutas",
+    "desayuno",
+    51,
+    "08",
+    19,
+    "https://t.ly/T1MDG"
+  ],
+  [
+    10131,
+    "Avena fría sabor café",
+    "desayuno",
+    47,
+    12,
+    21,
+    "https://t.ly/kjm3D"
+  ],
+  [
+    10132,
+    "Avena fría sabor piña colada",
+    "desayuno",
+    50,
+    14,
+    16,
+    "https://t.ly/XUn8w"
+  ],
+  [
+    10133,
+    "Avena horneada con fresas",
+    "desayuno",
+    60,
+    "09",
+    15,
+    "https://t.ly/v4CyV"
+  ],
+  [
+    10134,
+    "Avena horneada con arándanos",
+    "desayuno",
+    62,
+    "09",
+    14,
+    "https://t.ly/1zOIf"
+  ],
+  [
+    10135,
+    "Avena horneada de chocolate",
+    "desayuno",
+    37,
+    17,
+    14,
+    "https://t.ly/mSlkI"
+  ],
+  [
+    10136,
+    "Bowl de quinua y fruta",
+    "desayuno",
+    45,
+    10,
+    20,
+    "https://t.ly/twcv5"
+  ],
+  [10137, "Panqueques de manzana", "cena", 52, "09", 15, "https://t.ly/mFW7B"],
+  [10138, "Panqueques de limón", "desayuno", 32, 14, 22, "https://t.ly/hYk1j"],
+  [10139, "Tostadas francesas", "cena", 45, 14, 23, "https://t.ly/nE5dJ"],
+  [
+    10140,
+    "Crepes dulces con frutas",
+    "desayuno",
+    38,
+    17,
+    15,
+    "https://t.ly/s2HS7"
+  ],
+  [
+    10141,
+    "Tostadas con mantequilla de maní",
+    "desayuno, snack",
+    52,
+    "07",
+    10,
+    "https://t.ly/vTG_T"
+  ],
+  [10142, "Pan con queso", "snack", 21, "08", 12, "https://t.ly/ZLz0O"],
+  [10143, "Pan con huevo", "snack", 21, "09", 14, "https://t.ly/crndO"],
+  [10144, "Pan con aceitunas", "snack", 22, "05", "07", "https://t.ly/kkiS1"],
+  [10145, "Pan con palta", "snack", 25, "09", "08", "https://t.ly/vRHwm"],
+  [20101, "Jugo verde", "bebida", 27, "01", "02", "https://t.ly/GIUgg"],
+  [
+    20102,
+    "Agua de jamaica con fresa",
+    "bebida",
+    "08",
+    "00",
+    "01",
+    "https://t.ly/kGDzX"
+  ],
+  [
+    20103,
+    "Agua de jamaica con limón",
+    "bebida",
+    "01",
+    "00",
+    "00",
+    "https://t.ly/cjUKB"
+  ],
+  [20104, "Limonada frozen", "bebida", "02", "00", "00", "https://t.ly/mxZlr"],
+  [
+    20105,
+    "Limonada de hierba luisa",
+    "bebida",
+    "02",
+    "00",
+    "00",
+    "https://t.ly/RpFRh"
+  ],
+  [
+    20106,
+    "Limonada de hierba buena",
+    "bebida",
+    "02",
+    "00",
+    "00",
+    "https://t.ly/hbNtg"
+  ],
+  [20107, "Jugo de papaya", "bebida", 16, "00", "01", "https://t.ly/hynX5"],
+  [20108, "Jugo de piña", "bebida", 11, "00", "01", "https://t.ly/jyBCl"],
+  [20109, "Jugo de fresas", "bebida", 12, "00", "01", "https://t.ly/nRcRE"],
+  [
+    20110,
+    "Jugo combinado de frutas",
+    "bebida",
+    20,
+    "00",
+    "01",
+    "https://t.ly/onCVx"
+  ],
+  [
+    20111,
+    "Jugo de fresas con leche",
+    "bebida",
+    24,
+    "04",
+    "09",
+    "https://t.ly/qtw2O"
+  ],
+  [
+    20112,
+    "Jugo de mango con leche",
+    "bebida",
+    25,
+    "04",
+    "09",
+    "https://t.ly/hIe5_"
+  ],
+  [
+    20113,
+    "Jugo de lucuma con leche",
+    "bebida",
+    32,
+    "04",
+    "09",
+    "https://t.ly/Y8ThQ"
+  ],
+  [
+    20114,
+    "Jugo de plátano con leche",
+    "bebida",
+    42,
+    "04",
+    10,
+    "https://t.ly/nHisL"
+  ],
+  [
+    20115,
+    "Jugo de plátano con arándanos",
+    "bebida",
+    29,
+    "04",
+    "09",
+    "https://t.ly/Pt4Js"
+  ],
+  [
+    20116,
+    "Jugo de piña y leche de coco",
+    "bebida",
+    19,
+    "05",
+    "02",
+    "https://t.ly/jVWg1"
+  ],
+  [20117, "Zumo de naranja", "bebida", 30, "01", "02", "https://t.ly/rSl3t"],
+  [20118, "Café helado mocca", "bebida", 14, "05", "08", "https://t.ly/vgrWY"],
+  [20119, "Capuchino frio", "bebida", 10, "03", "07", "https://t.ly/jjDhI"],
+  [20120, "Avena cremosa fría", "bebida", 27, "03", "03", "https://t.ly/ol20k"],
+  [
+    20121,
+    "Licuado de sandía y limón",
+    "bebida",
+    14,
+    "00",
+    "01",
+    "https://t.ly/4SqAO"
+  ],
+  [20122, "Limonada de coco", "bebida", 10, "05", "01", "https://t.ly/xspQJ"],
+  [
+    20123,
+    "Licuado para los triglicéridos",
+    "bebida",
+    30,
+    11,
+    "07",
+    "https://t.ly/6TFSE"
+  ],
+  [
+    20124,
+    "Licuado de piña alto en fibra",
+    "bebida",
+    22,
+    "04",
+    "04",
+    "https://t.ly/4hqnm"
+  ],
+  [
+    20125,
+    "Licuado fibroso de manzana",
+    "bebida",
+    32,
+    "05",
+    "04",
+    "https://t.ly/KLMXj"
+  ],
+  [
+    20126,
+    "Licuado de pitahaya y fresa",
+    "bebida",
+    29,
+    "01",
+    "02",
+    "https://t.ly/KYvG9"
+  ],
+  [
+    20127,
+    "Licuado de beterraga y fresa",
+    "bebida",
+    15,
+    "00",
+    "02",
+    "https://t.ly/9FKMr"
+  ],
+  [20128, "Licuado cítrico", "bebida", 28, "00", "02", "https://t.ly/adZEY"],
+  [20129, "Licuado energizante", "bebida", 48, 11, 12, "https://t.ly/UP79m"],
+  [20130, "Chocolate caliente", "bebida", 24, "04", "07", "https://t.ly/pjfQ7"],
+  [20131, "Capuchino casero", "bebida", 10, "03", "07", "https://t.ly/GZgDi"],
+  [20132, "Mocachino casero", "bebida", 12, "04", "07", "https://t.ly/iNFAt"],
+  [20133, "Quinua con manzana", "bebida", 31, "01", "02", "https://t.ly/4g_pf"],
+  [
+    20134,
+    "Avena bebible caliente",
+    "bebida",
+    "07",
+    "01",
+    "01",
+    "https://t.ly/kFLrv"
+  ],
+  [
+    20135,
+    "Avena chocolatada caliente",
+    "bebida",
+    "09",
+    "02",
+    "01",
+    "https://t.ly/XPi-L"
+  ],
+  [20136, "Bebida de habas", "bebida", "06", "00", "02", "https://t.ly/FUI0o"],
+  [20137, "Té cítrico", "bebida", 23, "00", "01", "https://t.ly/CXDH-"],
+  [
+    20138,
+    "Té de flor de jamaica",
+    "bebida",
+    "08",
+    "00",
+    "00",
+    "https://t.ly/04bKO"
+  ],
+  [
+    20139,
+    "Licuado para el colesterol",
+    "bebida",
+    16,
+    "05",
+    "02",
+    "https://t.ly/PcNz2"
+  ],
+  [30100, "Revuelto de vainitas", "almuerzo", 67, 13, 31, "https://t.ly/kbH7T"],
+  [
+    30101,
+    "Milanesa de pescado con papas",
+    "almuerzo",
+    84,
+    "09",
+    32,
+    "https://t.ly/2fErM"
+  ],
+  [30102, "Arroz tapado", "almuerzo", 79, 12, 29, "https://t.ly/ccGOU"],
+  [30103, "Pollo al sillao", "almuerzo", 69, "07", 37, "https://t.ly/IQ1fM"],
+  [30104, "Pollo a la olla", "almuerzo", 73, "08", 41, "https://t.ly/_xSwu"],
+  [
+    30105,
+    "Pasta con pollo y brócoli",
+    "almuerzo",
+    67,
+    14,
+    40,
+    "https://t.ly/WKZMT"
+  ],
+  [
+    30106,
+    "Macarrones a la boloñesa",
+    "almuerzo",
+    60,
+    20,
+    33,
+    "https://t.ly/_KmPP"
+  ],
+  [30107, "Tallarines con atún", "almuerzo", 60, 10, 38, "https://t.ly/HrPGi"],
+  [
+    30108,
+    "Tallarines con pollo",
+    "almuerzo",
+    73,
+    "09",
+    36,
+    "https://t.ly/flunS"
+  ],
+  [30109, "Tallarines con carne", "almuerzo", 73, 14, 28, "https://t.ly/FMpUC"],
+  [
+    30110,
+    "Tallarines verdes con filete de pollo",
+    "almuerzo",
+    63,
+    18,
+    35,
+    "https://t.ly/w59x4"
+  ],
+  [
+    30111,
+    "Tallarines verdes con bistec de res",
+    "almuerzo",
+    63,
+    23,
+    33,
+    "https://t.ly/giIF_"
+  ],
+  [
+    30112,
+    "Tallarines saltados con pollo",
+    "almuerzo",
+    70,
+    15,
+    35,
+    "https://t.ly/JpCI-"
+  ],
+  [
+    30113,
+    "Tallarines saltados con carne",
+    "almuerzo",
+    70,
+    17,
+    28,
+    "https://t.ly/zFksc"
+  ],
+  [
+    30114,
+    "Locro de zapallo con filete de pollo",
+    "almuerzo",
+    77,
+    13,
+    33,
+    "https://t.ly/mHV9S"
+  ],
+  [
+    30115,
+    "Locro de zapallo con filete de res",
+    "almuerzo",
+    77,
+    17,
+    32,
+    "https://t.ly/H98uh"
+  ],
+  [
+    30116,
+    "Locro de zapallo con huevo",
+    "almuerzo",
+    77,
+    16,
+    23,
+    "https://t.ly/Jz91e"
+  ]
+]
