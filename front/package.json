@@ -1,0 +1,13 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "Landing page de Nutrichay, un consultorio nutricional online",
+  "main": "index.js",
+  "scripts": {
+    "build": "netlify deploy --prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nutrichay", "ebooks de nutrición", "calculador de IMC"],
+  "author": "Amed Pereda",
+  "license": "ISC"
+}
