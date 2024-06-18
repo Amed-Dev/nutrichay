@@ -40,7 +40,7 @@ async function loadFooter() {
 
 async function loadRecipe() {
   try {
-    const response = await fetch("https://api-nutrichay.netlify.app/.netlify/functions/server/api/v1/recetas");
+    const response = await fetch("https://api-nutrichay.netlify.app/.netlify/functions/api/v1/recetas");
     if (response.ok) {
       let data = await response.json();
       showRecipes(data);

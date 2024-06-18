@@ -1,5 +1,5 @@
 async function loadEbooks() {
-  const url = "https://api-nutrichay.netlify.app/.netlify/functions/server/api/v1/ebooks";
+  const url = "https://api-nutrichay.netlify.app/.netlify/functions/api/v1/ebooks";
   try {
     const response = await fetch(url);
     if (response.ok) {
